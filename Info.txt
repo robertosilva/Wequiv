@@ -1,0 +1,19 @@
+Para colocar o site no ar, seguir os passos:
+ Início  Hospedagem  wequiv.esy.es  Website  Importar o arquivo equiv.tar.gz
+ 
+
+Alterar o arquivo de conexão com o banco de dados 
+ equiv-app-config.database.ph
+ com  as informações do banco (usuário, senha e servidor)
+ 
+
+dominio
+Domínio: wequiv.esy.es
+Endereço IP: 31.170.164.86
+
+URL do Painel de Controle: https://cpanel.hostinger.com.br
+
+Realizar FTP
+FTP Hostname completo: ftp.wequiv.esy.es
+Usuário FTP: u128285062
+Senha FTP: wequiv2015
